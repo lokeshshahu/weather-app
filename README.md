@@ -1,2 +1,13 @@
-# weather-app
-A Python-based application that provides real-time weather details like temperature, humidity, wind speed, and condition for any city using WeatherAPI.
+# Weather App 🌤️
+
+This is a simple Python Weather App that fetches weather data using an API.
+
+## Features
+- Get current weather by city name
+- Supports multiple cities
+- Shows temperature, humidity, and weather description
+
+## How to Run
+1. Clone this repo
+```bash
+git clone https://github.com/your-username/weather-app.git
